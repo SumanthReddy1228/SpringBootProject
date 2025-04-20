@@ -16,3 +16,4 @@ public class LearnJpaHibernateApplication {
 // 1. @Configuration: Indicates that the class can be used by the Spring IoC container as a source of bean definitions.
 // 2. @EnableAutoConfiguration: Enables Spring Boot’s auto-configuration mechanism.
 // 3. @ComponentScan: Enables component scanning so that the application can find and register beans in the specified package.
+	
